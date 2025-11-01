@@ -1,0 +1,55 @@
+[
+  {
+    "id": "20251101-john-doe",
+    "name": "John Doe",
+    "image": "/images/john.jpg",
+    "description": "Last seen in Bulawayo after Cyclone Idai",
+    "contact": {
+      "email": "searcher@example.com",
+      "phone": "+263771234567",
+      "social": "@searcher_handle"
+    },
+    "status": "missing",
+    "submittedAt": "2025-11-01T09:00:00Z"
+  },
+  {
+    "id": "20251101-john-doe",
+    "name": "John Chapungu",
+    "image": "/images/john.jpg",
+    "description": "Last seen in Bulawayo after Cyclone Idai",
+    "contact": {
+      "email": "searcher@example.com",
+      "phone": "+263771234567",
+      "social": "@searcher_handle"
+    },
+    "status": "found",
+    "submittedAt": "2025-11-01T09:00:00Z"
+  }, 
+
+  {
+    "id": "20251101-john-doe",
+    "name": "John Chandalala",
+    "image": "/images/john.jpg",
+    "description": "Last seen in Bulawayo after Cyclone Idai",
+    "contact": {
+      "email": "searcher@example.com",
+      "phone": "+263771234567",
+      "social": "@searcher_handle"
+    },
+    "status": "missing",
+    "submittedAt": "2025-11-01T09:00:00Z"
+  },
+  {
+    "id": "20251101-john-doe",
+    "name": "Sam Chikandiwa",
+    "image": "/images/john.jpg",
+    "description": "Last seen in Bulawayo after Cyclone Idai",
+    "contact": {
+      "email": "searcher@example.com",
+      "phone": "+263771234567",
+      "social": "@searcher_handle"
+    },
+    "status": "missing",
+    "submittedAt": "2025-11-01T09:00:00Z"
+  }
+]
